@@ -1,4 +1,4 @@
-# manictime
+# ManicTime data set
 SUMMARY 
 =============================================
 
