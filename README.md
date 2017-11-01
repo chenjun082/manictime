@@ -1,4 +1,4 @@
-# ManicTime data set
+# ManicTime APP Usage Log Dataset #
 
 ## SUMMARY ##
 
